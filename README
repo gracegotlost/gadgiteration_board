@@ -1,1 +1,14 @@
-This is new version of code based on Joe, Jos, and Nicole.
+The NoiseMaker 2.1
+
+2014.3.7 Notes
+[Software]
+1.change LED stripe to rainbow mode under human circuit mode
+2.different TYPES of music
+3.use digitalRead pins for analog inputs
+
+[Hardware]
+1.solder wires under the board
+2.if we won¡¯t use the battery jack, change the holes smaller for battery wires
+3.reduce inputs to one
+4.put alligator clip aside of human circuit pads
+5.add screws to stabilize the board 
